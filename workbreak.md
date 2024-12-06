@@ -73,10 +73,6 @@ mơ, backend trả về response như sau:
 
 ![image](https://github.com/user-attachments/assets/34cb3239-7e59-462f-a9dc-d00b06481aaa)
 
-- Sau khi xin được source của challenge thì thực chất ở phía backend bị lỗ hổng mass assignment tại function settings
-
-![image](https://github.com/user-attachments/assets/a5e1421d-6ccc-4bdd-8d09-0a4788eb427e)
-
 - Quay lại với profile.js, ta thấy rằng trước khi `profileData.assignedInfo` được đưa vào làm target cho Object.assign thì method .json() được gọi lên để parse response và lưu vào biến profileData. 
 Thử test ở dev console của browser thì ta thu được kết quả như sau:
 
