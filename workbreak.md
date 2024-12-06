@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/939071f9-a371-401f-bf17-608eff012ece)![image](https://github.com/user-attachments/assets/f94331f0-323d-478e-ad46-149c420e8c07)- Đầu tiên vào challenge thì ta thấy 1 trang login. Tuy nhiên do chưa có tài khoản nên ta đăng kí 1 cái:
+- Đầu tiên vào challenge thì ta thấy 1 trang login. Tuy nhiên do chưa có tài khoản nên ta đăng kí 1 cái:
 
 ![image](https://github.com/user-attachments/assets/0d64347c-b797-4f1c-ba5a-cfe58ed32734)
 
